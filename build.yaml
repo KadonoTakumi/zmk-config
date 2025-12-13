@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: nrfmicr_nrf52840
+  - board: nrfmicro_nrf52840
     shield: kyria_rev3_left
   - board: nrfmicro_nrf52840
     shield: kyria_rev3_right
