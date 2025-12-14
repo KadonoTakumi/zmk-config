@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: promicro_nrf52840
-    shield: corne_left nice_view_adapter nice_view
-  - board: promicro_nrf52840
-    shield: corne_right nice_view_adapter nice_view_custom
+  - board: nrfmicro/nrf52840
+    shield: kyria_rev3_left
+  - board: nrfmicro/nrf52840
+    shield: kyria_rev3_right
